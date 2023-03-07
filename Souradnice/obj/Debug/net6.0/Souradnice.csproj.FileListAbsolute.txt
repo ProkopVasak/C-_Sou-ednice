@@ -1,0 +1,15 @@
+C:\Users\42077\source\repos\Souradnice\Souradnice\bin\Debug\net6.0\Souradnice.exe
+C:\Users\42077\source\repos\Souradnice\Souradnice\bin\Debug\net6.0\Souradnice.deps.json
+C:\Users\42077\source\repos\Souradnice\Souradnice\bin\Debug\net6.0\Souradnice.runtimeconfig.json
+C:\Users\42077\source\repos\Souradnice\Souradnice\bin\Debug\net6.0\Souradnice.dll
+C:\Users\42077\source\repos\Souradnice\Souradnice\bin\Debug\net6.0\Souradnice.pdb
+C:\Users\42077\source\repos\Souradnice\Souradnice\obj\Debug\net6.0\Souradnice.csproj.AssemblyReference.cache
+C:\Users\42077\source\repos\Souradnice\Souradnice\obj\Debug\net6.0\Souradnice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42077\source\repos\Souradnice\Souradnice\obj\Debug\net6.0\Souradnice.AssemblyInfoInputs.cache
+C:\Users\42077\source\repos\Souradnice\Souradnice\obj\Debug\net6.0\Souradnice.AssemblyInfo.cs
+C:\Users\42077\source\repos\Souradnice\Souradnice\obj\Debug\net6.0\Souradnice.csproj.CoreCompileInputs.cache
+C:\Users\42077\source\repos\Souradnice\Souradnice\obj\Debug\net6.0\Souradnice.dll
+C:\Users\42077\source\repos\Souradnice\Souradnice\obj\Debug\net6.0\refint\Souradnice.dll
+C:\Users\42077\source\repos\Souradnice\Souradnice\obj\Debug\net6.0\Souradnice.pdb
+C:\Users\42077\source\repos\Souradnice\Souradnice\obj\Debug\net6.0\Souradnice.genruntimeconfig.cache
+C:\Users\42077\source\repos\Souradnice\Souradnice\obj\Debug\net6.0\ref\Souradnice.dll
